@@ -1,3 +1,5 @@
+# Vercel needs no leading slash
+.vercel
 /.cache/
 /node_modules/
 /public/
