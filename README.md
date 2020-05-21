@@ -4,9 +4,10 @@ This repository is a template for tinkering with frontend projects. It uses [Par
 
 It makes use of:
 
-1. Plain HTML for HTML
-1. [Stylus](http://stylus-lang.com) for CSS
-1. [TypeScript](https://www.typescriptlang.org) for JavaScript
+- Plain HTML for HTML
+- [Tailwind CSS](https://tailwindcss.com) for CSS
+- [Open Color](https://yeun.github.io/open-color/) color variables
+- [TypeScript](https://www.typescriptlang.org) for JavaScript
 
 ## Use
 
