@@ -1,4 +1,5 @@
 {
+  "name": "template-parcel",
   "license": "MIT",
   "private": true,
   "scripts": {

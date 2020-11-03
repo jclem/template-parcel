@@ -1,4 +1,4 @@
-# Tinker Template
+# Parcel Template
 
 This repository is a template for tinkering with frontend projects. It uses
 [Parcel](https://parceljs.org) to easily bundle up frontend assets that can
