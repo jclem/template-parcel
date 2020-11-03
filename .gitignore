@@ -1,6 +1,6 @@
 # Vercel needs no leading slash
 .vercel
-/.cache/
+/.parcel-cache/
 /node_modules/
 /public/
 !/.vscode/
