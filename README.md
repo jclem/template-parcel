@@ -8,7 +8,6 @@ It makes use of:
 
 - Plain HTML for HTML
 - [Tailwind CSS](https://tailwindcss.com) for CSS
-- [Open Color](https://yeun.github.io/open-color/) color variables
 - [TypeScript](https://www.typescriptlang.org) for JavaScript
 - [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) for basic style and format checks
 - [Husky](https://github.com/typicode/husky) for automated pre-commit checks and formatting

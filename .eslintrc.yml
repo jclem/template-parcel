@@ -6,3 +6,8 @@ extends:
   - plugin:@typescript-eslint/eslint-recommended
   - plugin:@typescript-eslint/recommended
   - prettier/@typescript-eslint
+overrides:
+  - files: ['*.js']
+    env: {node: true}
+    rules:
+      '@typescript-eslint/no-var-requires': off
